@@ -1,0 +1,12 @@
+.bg-image {
+    background-image: url('../../assets/FondoUcsm.jpg'); 
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .login-container {
+    position: relative;
+  }
